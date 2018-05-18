@@ -13,3 +13,5 @@ $ git commit -am "primult meu commit"
 
 /e/projects/tekwill_sql/src/tekwill_sql (master)
 $ git push
+
+
